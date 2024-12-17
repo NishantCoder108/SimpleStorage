@@ -1,4 +1,4 @@
-## SimpleStorage DApp
+## SimpleStorage Contract
 
 ### **Overview**
 The **SimpleStorage DApp** is a basic smart contract built to store and retrieve a number on the blockchain. This project demonstrates expertise in **Solidity**, **Foundry**, and **Ethereum blockchain development**. It is designed as a professional showcase of skills in smart contract creation, deployment, and interaction.
